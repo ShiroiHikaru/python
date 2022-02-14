@@ -1,6 +1,8 @@
 print('hello python');
 print('안녕하셔유 파이썬 시작해봤어유');
 
-fruits = ['a', 'b', 'c']
-fruits.clear(1)
-print(fruits)
+# 주석은 #인가요?
+
+# 연산자는 자바스크립트랑 똑같아요. 그거야 사칙연산이니까?
+
+print('5 + 6') # 더하기 연산자, 11
